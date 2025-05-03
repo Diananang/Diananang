@@ -2,8 +2,8 @@
 
 Perkenalkan nama saya **Try Diana Yunita**.
 
-Saya seorang **Mobile Development Cohort** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **Mobile Kotlin Developer** dan sedang belajar menjadi **Front End Web Developer**
 
-Saya merupakan mahasiswa jurusan **Teknik Komputer** di **Universitas Andalas**.
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/try-diana-yunita-66b457207)ku ya.
+Saya lulusan **Teknik Komputer** di **Universitas Andalas**.
+Jika tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/try-diana-yunita-66b457207) ya.
 
